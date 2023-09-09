@@ -1,9 +1,9 @@
 html{
     width: 100%;
-    height: auto;
     margin: 0;
     padding: 0;
 }
+
 body{
     height: auto;
     background-color: #fcfbfb;
@@ -15,11 +15,6 @@ body{
     font-family: sans-serif;
 }
 
-main{
-    width: 100%;
-    margin: 0;
-    padding: 0;
-}
 
 .section-title{
     text-align: center;
@@ -37,10 +32,13 @@ main{
 
 /*=================背景=================*/
 main{
+    width: 100%;
+    margin: 0;
+    padding: 0;
     background-image: url(../../images/titech.jpeg);
     background-attachment: fixed;
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size:cover;
 }
 
 
