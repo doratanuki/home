@@ -1,0 +1,101 @@
+html{
+    width: 100%;
+    height: auto;
+    margin: 0;
+    padding: 0;
+}
+body{
+    height: auto;
+    background-color: #fcfbfb;
+    padding: 0;
+    margin:0 0 0 50px ;
+}
+
+.magnolife{
+    font-family: sans-serif;
+}
+
+main{
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.section-title{
+    text-align: center;
+    border-left:10px solid black;
+    margin: 0 50px 10px 50px;
+}
+
+.subhead{
+    text-align: center;
+    border-top: 2px solid #333;
+    border-bottom: 2px solid #333;
+    margin: 16px 50px;
+    padding: 5px 0;
+}
+
+/*=================背景=================*/
+main{
+    background-image: url(../../images/titech.jpeg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+
+
+/*===============================ABOUT================================*/
+.about{
+    background-color: #898989b3;
+    padding-top: 25px;
+}
+
+.text-about{
+    width: 80%;
+    margin: auto;
+    text-align: left;
+    font-family: serif;
+    font-size: 16px;
+}
+
+/*========= self-introduction ============*/
+
+.self-introduction img{
+    display: block;
+    width: 150px;
+    height: 150px;
+    margin: auto;
+}
+
+.self-introduction-myname{
+    width: 80%;
+    text-align: left;
+    font-size: 16px;
+    letter-spacing: 1px;
+    margin: 10px auto;
+}
+
+
+/*===============================================
+                    ~480px
+================================================*/
+@media screen and (max-width:480px){
+
+}
+
+/*===============================================
+                    481px~1024px
+================================================*/
+@media screen and (min-width:481px) and (max-width:1024px){
+
+}
+
+/*===============================================
+                    1025px~
+================================================*/
+@media screen and (min-width:1025px) {
+
+
+}
+
+
