@@ -38,8 +38,9 @@ main{
 /*=================背景=================*/
 main{
     background-image: url(../../images/titech.jpeg);
-    background-size: cover;
     background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 
