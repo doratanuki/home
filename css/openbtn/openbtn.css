@@ -23,7 +23,7 @@
     transform: translate(-50%,-50%);
     left: 50%;
     height: 2px;
-	background-color: #000;
+	background-color: #ffffff;
   	width: 44%;
   }
 
@@ -46,7 +46,7 @@
 	top:5px;
 	left:50%;
     transform: translateX(-50%);
-	color: #000;
+	color: #ffffff;
 	font-size: 0.6rem;
 	text-transform: uppercase;
 }

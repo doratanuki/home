@@ -5,7 +5,7 @@ header{
     left: 0;
     width: 50px;
     height: 150vh;
-    background-color: #ffffff;
+    background-color: #1f2b45;
     box-shadow: 2px 0 6px rgba(0, 0, 0, 0.5);
 }
 
@@ -26,6 +26,7 @@ header{
     align-items: center;
     font-weight: 800;
     font-size: 20px;
+    color: white;
 }
 
 .header-sns{
