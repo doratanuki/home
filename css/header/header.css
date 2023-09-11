@@ -10,7 +10,7 @@ header{
 }
 
 .header-contents{
-    margin-top: 50px;
+    margin-top: 500px;
     width: 100%;
     height: calc(100% - 50px);
     display: flex;
