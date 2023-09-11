@@ -40,10 +40,12 @@
 
 }
 
-/*title*/
+/*==============title==============*/
 .first-screen-title{
-    width: 100%;
-    font-size: 30px;
+    font-size: 34px;
     text-align: center;
     letter-spacing: 0.1rem;
+    background-color: #ffffffa2;
+    padding: 0 18px;
+    margin-top: 20px;
 }
