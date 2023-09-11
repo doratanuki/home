@@ -27,6 +27,7 @@
 
 #loading-text p{
     text-align: center;
+    font-weight: 800;
     font-size: 30px;
     color: rgb(255, 255, 255);
     text-shadow: #999999 2px 2px 2px;
