@@ -9,14 +9,15 @@ body{
 
 /*=================背景=================*/
 .bg{
-    width: 100vw;
+    width: 120vw;
     height: 120vh;
     position: fixed;
     z-index: -1;
-    top: 0;
-    left: 0;
+    top: -10vh;
+    left: -10vw;
     background-image: url(../../images/titech.jpeg);
     background-size: cover;
+    background-position: right;
 }
 
 /*=====================================*/
