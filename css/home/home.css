@@ -25,14 +25,15 @@ body{
 
 .section-title{
     text-align: center;
-    border-left:10px solid black;
+    border-left:10px solid rgb(0, 0, 0);
     margin: 0 50px 10px 50px;
+    
 }
 
 .subhead{
     text-align: center;
-    border-top: 2px solid #333;
-    border-bottom: 2px solid #333;
+    border-top: 2px solid #000000;
+    border-bottom: 2px solid #000000;
     margin: 16px 50px;
     padding: 5px 0;
 }
@@ -43,8 +44,9 @@ body{
 
 /*===============================ABOUT================================*/
 .about{
-    background-color: #898989b3;
-    padding-top: 25px;
+    background-color: rgba(255, 255, 255, 0.5);
+    padding: 25px 0;
+    color: black;
 }
 
 .text-about{
@@ -67,11 +69,16 @@ body{
 .self-introduction-myname{
     width: 80%;
     text-align: left;
-    font-size: 16px;
+    font-size: 18px;
     letter-spacing: 1px;
     margin: 10px auto;
 }
 
+/*================透明=================*/
+.transparent{
+    width: 100%;
+    height: 150px;
+}
 
 /*===============================================
                     ~480px
