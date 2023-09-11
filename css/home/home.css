@@ -1,8 +1,12 @@
-
+html{
+    height: -webkit-fill-available;
+}
 
 body{
     margin: 0 0 0 50px;
     padding: 0;
+    min-height: 100vh;
+    min-height: -webkit-fill-available;
 }
 
 /*=================背景=================*/
