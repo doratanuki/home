@@ -13,11 +13,12 @@ body{
     height: 120vh;
     position: fixed;
     z-index: -1;
-    top: -10vh;
+    top: 0;
     left: -10vw;
     background-image: url(../../images/titech.jpeg);
     background-size: cover;
-    background-position: right;
+    background-position: top -40px left -20px;
+    background-repeat: no-repeat;
 }
 
 /*=====================================*/
